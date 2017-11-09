@@ -1,0 +1,166 @@
+#home {
+    background-color: white;
+    margin: 30px;
+    height: 750px;
+    width: 1355px;
+}
+#header {
+    background-color: white;
+    height: 50px;
+    width: 1355px;
+    float: left;
+}
+#img{
+    background-image: url("adv_logo_hd.gif");
+    margin-left: 10px;
+    height: 28px;
+    width: 255px;
+    float: left;
+}
+#dropdown1{
+    float: right;
+    margin-right: 100px;
+    margin-top: 20px;
+}
+#dropdown2{
+    float: right;
+    margin-right: 80px;
+    margin-top: 20px;
+}
+#dropdown3{
+    float: right;
+    margin-right: 10px;
+    margin-top: 20px;
+}
+#dropdown3 button{
+    background-color: dodgerblue;
+    height: 20px;
+    width: 20px;
+    float: right;
+}
+#tab1 {
+    background-image: url("");
+    background-color: antiquewhite;
+    margin-top: 20px;
+    height: 20px;
+    width: 1355px;
+    float: left;
+}
+#tab2 {
+    background-image: url("");
+    background-color: antiquewhite;
+    margin-top: 20px;
+    height: 20px;
+    width: 1355px;
+    float: left;
+}
+#layout {
+    background-color: lightgray;
+    height: 600px;
+    width: 1355px;
+    margin-top: 20px;
+    float: left;
+}
+#content1{
+    background-color: lightgray;
+    height: 600px;
+    width: 900px;
+    float: left;
+}
+#img1 {
+    background-image: url("");
+    background-color: white;
+    height: 86px;
+    width: 900px;
+    float: left;
+}
+#img2 {
+    background-image: url("");
+    background-color: lightgray;
+    height: 86px;
+    width: 900px;
+    float: left;
+}
+#img3 {
+    background-image: url("");
+    background-color: white;
+    height: 86px;
+    width: 900px;
+    float: left;
+}
+#img4 {
+    background-image: url("");
+    background-color: lightgray;
+    height: 86px;
+    width: 900px;
+    float: left;
+}
+#img5 {
+    background-image: url("");
+    background-color: white;
+    height: 86px;
+    width: 900px;
+    float: left;
+}
+#img6 {
+    background-image: url("");
+    background-color: lightgray;
+    height: 86px;
+    width: 900px;
+    float: left;
+}
+#img7 {
+    background-image: url("anoceanofsky.jpg");
+    height: 86px;
+    width: 900px;
+    float: left;
+}
+#content2{
+    background-color: lightblue;
+    height:300px;
+    width:455px;
+    float: right;
+}
+#content3{
+    background-color: lightcyan;
+    height: 300px;
+    width: 455px;
+    float: right;
+}
+#footer {
+    background-image: url("");
+    background-color: cadetblue;
+    height: 250px;
+    width: 1355px;
+    float:left;
+}
+#sub1{
+    background-color: lightblue;
+    height: 180px;
+    width: 340px;
+    float: left;
+}
+#sub2{
+    background-color: lightblue;
+    height: 180px;
+    width: 339px;
+    float: left;
+}
+#sub3{
+    background-color: lightblue;
+    height: 180px;
+    width: 339px;
+    float: left;
+}
+#sub4{
+    background-color: lightblue;
+    height: 180px;
+    width: 337px;
+    float: left;
+}
+#sub5{
+    background-color: white;
+    float: left;
+}
+
+
